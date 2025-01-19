@@ -37,7 +37,7 @@ RamenKu-Web/
 ```
 
 ## Screenshot
-(./Preview.png)
+![Preview Image](./Preview.png)
 
 ## Contribution
 Contributions are welcome! If you have ideas to improve this project, feel free to submit a pull request or report issues via the [Issues tab](https://github.com/rifqin-11/RamenKu-Web/issues).
